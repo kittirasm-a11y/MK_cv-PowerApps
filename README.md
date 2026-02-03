@@ -30,3 +30,11 @@ If(
     Filter(CourseInfo, Semester = "Fall"),
     Filter(CourseInfo, Semester = "Spring")
 )
+## 🔗 Live Application
+
+You can access the live Power Apps application here:
+
+👉 **[Open MK_cv Power Apps Application]https://apps.powerapps.com/play/e/default-aaf7688a-f496-40d1-bd44-3cabbe690ba0/a/716039af-6868-4f65-a33e-0646bf500a84?tenantId=aaf7688a-f496-40d1-bd44-3cabbe690ba0&hint=e6610002-5b8e-4683-9df8-1781411f2d42&sourcetime=1770120902005
+
+> ⚠️ Note: Access requires a European University Cyprus Microsoft account.
+
